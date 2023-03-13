@@ -32,7 +32,7 @@ body {
   animation-delay: -0.12s;
 }
 .lds-facebook div:nth-child(3) {
-  left: 56px;
+  left: 55px;
   margin-right: 5px;
   animation-delay: 0;
 }
